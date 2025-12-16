@@ -1,7 +1,0 @@
-# Ignorar archivos y carpetas de Visual Studio
-.vs/
-*.suo
-
-# Ignorar carpetas de compilación y binarios comunes de .NET
-bin/
-obj/
